@@ -98,8 +98,6 @@ realtime_news_summarizer/
 4.  **결과 확인 (Check the results):**
     Consumer를 실행한 터미널(터미널 2)에서 실시간으로 수신된 뉴스와 Gemini가 요약한 결과를 확인할 수 있습니다.
 
-    
-    *(실제 실행 화면 스크린샷으로 교체하는 것을 권장합니다.)*
 
 ### 4. 종료 (Shutdown)
 

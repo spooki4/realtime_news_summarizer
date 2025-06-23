@@ -86,13 +86,13 @@ realtime_news_summarizer/
 2.  **(터미널 2) Consumer 실행 (Run the consumer):**
     Consumer를 먼저 실행하여 Kafka 토픽에서 메시지를 기다리게 합니다.
     ```bash
-    python src/consumer.py
+    python -m src.consumer
     ```
 
 3.  **(터미널 3) Producer 실행 (Run the producer):**
     Producer를 실행하여 샘플 뉴스 데이터를 Kafka로 전송합니다.
     ```bash
-    python src/producer.py
+    python -m src.producer
     ```
 
 4.  **결과 확인 (Check the results):**
